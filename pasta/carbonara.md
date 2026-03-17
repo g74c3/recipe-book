@@ -6,7 +6,7 @@
 - Egg
 - Cheese
 - Milk
-- Oil
+- Oil of choice
 
 ## Instructions
 - Cook pasta.
