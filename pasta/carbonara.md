@@ -6,10 +6,11 @@
 - Egg
 - Cheese
 - Milk
+- Oil
 
 ## Instructions
 - Cook pasta.
 - Make sauce with cheese, milk, and egg.
-- Fry bacon.
+- Fry bacon in oil.
 - Mix pasta, sauce, and bacon together.
 - Serve.
