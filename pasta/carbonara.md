@@ -6,11 +6,11 @@
 - Egg
 - Cheese
 - Milk
-- Avocado Oil
+- Oil of choice
 
 ## Instructions
 - Cook pasta.
 - Make sauce with cheese, milk, and egg.
-- Fry bacon in avocado oil.
+- Fry bacon in oil.
 - Mix pasta, sauce, and bacon together.
 - Serve.
