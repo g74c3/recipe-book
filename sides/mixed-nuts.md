@@ -2,11 +2,10 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
-
+- Cashews
+- Pecans
 
 ## Instructions
 
-- Step 1
-- Step 2
+- Place cashews and pecans in a bowl.
+- Mix nuts together.
